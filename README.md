@@ -5,4 +5,6 @@ It includes the test inputs given in the course and ran in the each of the vario
 
 **To run some of the code, the boost library is needed.**
 
+Relinking the input file paths is needed to run each of the projects as well.
+
 This directory is ~300MB, this is in part due to the some the input text files for the various programming assignments ranging in the 10's MB.
